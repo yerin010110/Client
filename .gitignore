@@ -24,3 +24,11 @@ dist-ssr
 *.sw?
 
 .env
+eslint.comfig.js
+README.md
+vite.comfig.js
+vite.svg
+react.svg
+.gitignore
+
+
